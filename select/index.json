@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "流星ライン",
+  "base_artist": "音速ライン",
+  "createdAt": "2026-02-23T16:53:06.947380Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "流星ライン",
+      "artist": "音速ライン",
+      "has_synced": false,
+      "path": "select/pl_01_流星ライン_音速ライン.txt"
+    }
+  ]
+}
